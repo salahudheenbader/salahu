@@ -1,0 +1,22 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "![amazona](/template/images/amazona.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salahudheenbader/salahu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salahudheenbader/salahu/issues"
+  },
+  "homepage": "https://github.com/salahudheenbader/salahu#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
